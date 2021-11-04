@@ -1,3 +1,3 @@
-** snart är det fredag
+* "snart är det fredag"
 
 WOOOOOOO
